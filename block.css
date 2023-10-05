@@ -1,0 +1,7 @@
+.block2{
+	float: left;
+	width: 33.3%;
+	border: 1px;
+	pad: 10px;
+	box-sizing: border-box;
+}
