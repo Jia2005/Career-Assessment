@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Navbar from './Components/Common/Navbar';
-import Footer from './Components/Common/Footer';
-import AlertBox from './Components/Common/AlertBox';
+import Navbar from './../Components/Common/Navbar';
+import Footer from './../Components/Common/Footer';
+import AlertBox from './../Components/Common/AlertBox';
 
 const Blog = () => {
   const [formData, setFormData] = useState({

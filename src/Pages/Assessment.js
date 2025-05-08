@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Navbar from './Components/Common/Navbar';
-import AssessmentForm from './Components/Forms/AssessmentForm';
-import AlertBox from './Components/Common/AlertBox';
+import Navbar from './../Components/Common/Navbar';
+import AssessmentForm from './../Components/Forms/AssessmentForm';
+import AlertBox from './../Components/Common/AlertBox';
 
 const Assessment = () => {
   const [alert, setAlert] = useState({ show: false, message: '' });

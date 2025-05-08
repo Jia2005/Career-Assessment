@@ -1,8 +1,8 @@
 import React, { useState, useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { AuthContext } from '../contexts/AuthContext';
-import AlertBox from '../components/common/AlertBox';
-import LoginForm from '../components/forms/LoginForm';
+import { AuthContext } from './../Contexts/AuthContext';
+import AlertBox from './../Components/Common/AlertBox';
+import LoginForm from './../Components/Forms/LoginForm';
 
 const Login = () => {
   const [alert, setAlert] = useState({ show: false, message: '' });

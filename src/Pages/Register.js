@@ -1,8 +1,8 @@
 import React, { useState, useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { AuthContext } from './Context/AuthContext';
-import AlertBox from './Components/Common/AlertBox';
-import RegisterForm from './Components/Forms/RegisterForm';
+import { AuthContext } from './../Context/AuthContext';
+import AlertBox from './../Components/Common/AlertBox';
+import RegisterForm from './../Components/Forms/RegisterForm';
 
 const Register = () => {
   const [alert, setAlert] = useState({ show: false, message: '' });

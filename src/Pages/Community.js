@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Navbar from '../components/common/Navbar';
-import Footer from '../components/common/Footer';
-import AlertBox from '../components/common/AlertBox';
+import Navbar from './../Components/Common/Navbar';
+import Footer from './../Components/Common/Footer';
+import AlertBox from './../Components/Common/AlertBox';
 
 const Community = () => {
   const [activeTab, setActiveTab] = useState('discussions');
@@ -208,7 +208,7 @@ const Community = () => {
               </div>
             </div>
           )}
-          
+
           {activeTab === 'mentors' && (
             <div>
               <h2 className="text-2xl font-semibold text-white mb-6">Available Mentors</h2>

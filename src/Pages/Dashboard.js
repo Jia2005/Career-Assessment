@@ -1,9 +1,9 @@
 import React, { useContext, useEffect, useState } from 'react';
-import Navbar from './Components/Common/Navbar';
-import Footer from './Components/Common/Footer';
-import ProfileCard from './Components/Dashboard/ProfileCard';
-import CourseCard from './Components/Dashboard/CourseCard';
-import { AuthContext } from '../contexts/AuthContext';
+import Navbar from './../Components/Common/Navbar';
+import Footer from './../Components/Common/Footer';
+import ProfileCard from './../Components/Dashboard/ProfileCard';
+import CourseCard from './../Components/Dashboard/CourseCard';
+import { AuthContext } from './../Contexts/AuthContext';
 import { useNavigate } from 'react-router-dom';
 
 const Dashboard = () => {
