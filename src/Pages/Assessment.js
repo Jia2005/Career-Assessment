@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Navbar from './../Components/Common/Navbar';
+import Navbar from '../Components/Navbar';
 import AssessmentForm from './../Components/Forms/AssessmentForm';
 import AlertBox from './../Components/Common/AlertBox';
 
