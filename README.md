@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# 🚀 MyCareer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feeling super confused about what you're meant to do with your life? I get it! 🙃
 
-## Available Scripts
+Hey there! Career decisions are THE WORST, right? Those career fairs where everyone's handing out pens and asking "So what's your five-year plan?" Ugh. And everyone's always like "follow your passion!" but what if you're passionate about sleeping and eating pizza? 😅 
 
-In the project directory, you can run:
+That's why I built this little app to help sort through all the career chaos. Most academic advisors aren't cutting it (sorry not sorry), so I figured I'd build something that actually asks the right questions. It's been super helpful for students who are in that "what am I even doing here" phase of college life!
 
-### `npm start`
+## What makes this thing cool? ✨
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This isn't some boring corporate career matcher. I wanted something that actually *gets* students:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Personal quiz thingy** 📋 - Find how your interests, strengths, and personality actually fit together
+* **Smart suggestions** 💡 - Get courses and resources that actually make sense for YOU
+* **Connect with people** 👋 - Chat with others who are just as lost as you are (it helps!)
+* **Read some stuff** 📚 - Users share their career journeys and advice (some are hilarious 😂)
+* **No boring career tests** ⚡ - This isn't about forcing you into some random job box - it's about finding what actually makes you tick!
 
-### `npm test`
+## Get started!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Stop overthinking your future and just try something new! Why keep doing the same "take an interest survey" stuff that hasn't been working? Hours of scrolling through those lists of careers on university portals and taking those silly "What Hogwarts house are you?" personality tests somehow aren't magically revealing perfect majors. Nothing works until you start focusing on the actual stuff that matters - what classes you don't fall asleep in, what you're naturally good at, and what kind of environment you need.
 
-### `npm run build`
+This app isn't magic (I wish!), but it asks better questions than those generic career quizzes. And honestly, sometimes just looking at yourself differently is exactly the fresh perspective you need to try something new. What's the worst that could happen? You end up with a slightly different existential crisis? 🤷‍♀️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Try it yourself!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Coming soon on Vercel 😉
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+P.S. I built this because I was tired of those "Take this test to find your dream job!" sites that tell everyone to either become a software engineer or a graphic designer lol. This is just me trying to make something better and making a difference!
