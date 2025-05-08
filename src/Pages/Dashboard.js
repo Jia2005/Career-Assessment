@@ -3,7 +3,7 @@ import Navbar from './../Components/Common/Navbar';
 import Footer from './../Components/Common/Footer';
 import ProfileCard from './../Components/Dashboard/ProfileCard';
 import CourseCard from './../Components/Dashboard/CourseCard';
-import { AuthContext } from './../Contexts/AuthContext';
+import { AuthContext } from './../Context/AuthContext';
 import { useNavigate } from 'react-router-dom';
 
 const Dashboard = () => {

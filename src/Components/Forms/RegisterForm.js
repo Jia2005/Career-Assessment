@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { useAuth } from './../Contexts/AuthContext';
-import AlertBox from './../Components/Common/AlertBox';
+import { useAuth } from './../../Context/AuthContext';
+import AlertBox from './../Common/AlertBox';
 
 const Register = () => {
   const [name, setName] = useState('');
