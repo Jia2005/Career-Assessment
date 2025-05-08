@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider } from './contexts/AuthContext';
-import Home from './pages/Home';
-import Login from './pages/Login';
-import Register from './pages/Register';
-import Assessment from './pages/Assessment';
-import Dashboard from './pages/Dashboard';
-import Blog from './pages/Blog';
+import Home from './Pages/Home';
+import Login from './Pages/Login';
+import Register from './Pages/Register';
+import Assessment from './Pages/Assessment';
+import Dashboard from './Pages/Dashboard';
+import Blog from './Pages/Blog';
 const ProtectedRoute = ({ children }) => {
   const user = JSON.parse(localStorage.getItem('user'));
   
