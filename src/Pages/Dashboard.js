@@ -1,8 +1,8 @@
 import React, { useContext, useEffect, useState } from 'react';
-import Navbar from './components/common/Navbar';
-import Footer from './components/common/Footer';
-import ProfileCard from './components/dashboard/ProfileCard';
-import CourseCard from './components/dashboard/CourseCard';
+import Navbar from './Components/Common/Navbar';
+import Footer from './Components/Common/Footer';
+import ProfileCard from './Components/Dashboard/ProfileCard';
+import CourseCard from './Components/Dashboard/CourseCard';
 import { AuthContext } from '../contexts/AuthContext';
 import { useNavigate } from 'react-router-dom';
 
